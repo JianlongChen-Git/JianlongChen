@@ -14,6 +14,11 @@ My best friend
 ------
 Shuo Zhang. She is a cute puppy.
 
+Awards
+------
+- 2023, Outstanding Graduates of Beijing.
+- 2022, National Scholarship for Undergraduate Students.
+- 2021, National Scholarship for Undergraduate Students.
 
 For more info
 ------
