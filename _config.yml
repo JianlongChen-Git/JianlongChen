@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Jianlong Chen"
   avatar           : "profile.png"
-  bio              : "Jianlong is a master of Shanghai University of Finance and Economics now. He received his B.S. degree in Information Management and Information System at Beijing Jiao Tong University in 2023."
+  bio              : "Do the best research"
   location         : "Shanghai"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            : "chen.jianlong@stu.sufe,edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
