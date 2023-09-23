@@ -10,6 +10,9 @@ redirect_from:
 
 Jianlong Chen is a master of SUFE. He received his B.S. degree in MIS at Beijing Jiao Tong University in 2023. 
 
+My best friend
+------
+Shuo Zhang. She is a cute puppy.
 
 
 For more info
