@@ -11,4 +11,4 @@ redirect_from:
 
 myself
 ======
-![image](https://github.com/JianlongChen-Git/JianlongChen/blob/master/images/JianlongChen.jpg)
+avator: ![image](https://github.com/JianlongChen-Git/JianlongChen/blob/master/images/JianlongChen.jpg)
