@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Photo"
+title: "Photos"
 permalink: /photo/
 author_profile: true
 redirect_from:
