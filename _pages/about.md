@@ -10,10 +10,6 @@ redirect_from:
 
 Jianlong Chen is pursing the doctor degree in Shanghai University of Finance and Economics. He received his B.S. degree in MIS at Beijing Jiao Tong University in 2023. 
 
-My best friend
-------
-Shuo Zhang. She is a cute puppy.
-
 Awards
 ------
 - 2023, Outstanding Graduates of Beijing.
