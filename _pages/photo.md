@@ -2,7 +2,7 @@
 title: "Photos"
 permalink: /photo/
 author_profile: true
-  - photo.html
+  - /photo.html
 ---
 
 {% include base_path %}
