@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Jianlong Chen is a master of SUFE. He received his B.S. degree in MIS at Beijing Jiao Tong University in 2023. 
+Jianlong Chen is pursing the doctor degree in Shanghai University of Finance and Economics. He received his B.S. degree in MIS at Beijing Jiao Tong University in 2023. 
 
 My best friend
 ------
