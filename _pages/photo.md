@@ -11,7 +11,7 @@ redirect_from:
 
 <div>
 	{% for image in site.static_files %}
-	    {% if image.path contains '/images/' %}  
+	    {% if image.path contains '/images/shows' %}  
 	        <img src="{{image.path}}" alt="{{ image.name }}" />
 	    {% endif %}  
 	{% endfor %}
