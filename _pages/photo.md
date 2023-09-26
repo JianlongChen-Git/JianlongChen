@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-myself
-======
-avator: ![image](https://github.com/JianlongChen-Git/JianlongChen/blob/master/images/JianlongChen.jpg)
+<div>
+	{% for image in site.static_files %}
+	    {% if image.path contains '/images/' %}  
+	        <img src="{{image.path}}" alt="{{ image.name }}" />
+	    {% endif %}  
+	{% endfor %}
+</div>
