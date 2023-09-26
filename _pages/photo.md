@@ -1,4 +1,6 @@
 ---
+layout:default
+comments:false
 title: "Photos"
 permalink: /Photos/
 author_profile: true
