@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Please download my CV(https://github.com/JianlongChen-Git/JianlongChen/edit/master/files/CV-JLC.pdf)
+[Please download my CV](https://github.com/JianlongChen-Git/JianlongChen/edit/master/files/CV-JLC.pdf)
