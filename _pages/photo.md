@@ -1,6 +1,6 @@
 ---
 title: "Photos"
-permalink: /photo/
+permalink: /images/
 author_profile: true
 redirect_from:
   - /photo.html
