@@ -7,8 +7,6 @@ redirect_from:
     
 ---
 
-{% include base_path %}
-
 <div>
 	{% for image in site.static_files %}
 	    {% if image.path contains '/images/shows' %}  
