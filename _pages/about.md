@@ -8,7 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Jianlong Chen is pursing the doctor degree in Shanghai University of Finance and Economics. He received his B.S. degree in MIS at Beijing Jiao Tong University in 2023. 
+I am pursing the doctor degree at Information Management and Business Intelligence at Shanghai University of Finance and Economics. I received my B.S. degree at MIS at Beijing Jiao Tong University in 2023.
+
+Research Topics
+------
+- Generalization Theory
+- Self-supervised Learning
 
 Awards
 ------
