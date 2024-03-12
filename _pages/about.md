@@ -12,8 +12,13 @@ I am a fist-year Ph.D. student at Information Management and Business Intelligen
 
 Research Topics
 ------
-- Generalization Theory (including general generalization、domain generalization, and other related topics)
+- Generalization Theory (including general generalization, domain generalization, and other related topics)
 - Self-supervised Learning
+- Robustness
+
+Papers
+------
+I am trying an idea related to SAM.
 
 Awards
 ------
