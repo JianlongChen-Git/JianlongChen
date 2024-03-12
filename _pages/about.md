@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fist-year Ph.D. student at Information Management and Business Intelligence，Shanghai University of Finance and Economics, advised by [Zhiming Zhou](https://zhimingzhou.github.io/). I received my B.S. degree at MIS at Beijing Jiao Tong University in 2023.
+I am a fist-year Ph.D. student at Information Management and Business Intelligence, Shanghai University of Finance and Economics, advised by [Zhiming Zhou](https://zhimingzhou.github.io/). I received my B.S. degree at MIS at Beijing Jiao Tong University in 2023.
 
 Research Topics
 ------
