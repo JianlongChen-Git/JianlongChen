@@ -16,6 +16,10 @@ Research Topics
 - Self-supervised Learning
 - Robustness
 
+News
+------
+- 2024/3/12 Update my personal website!
+  
 Papers
 ------
 I am trying an idea related to SAM.
